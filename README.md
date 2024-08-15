@@ -1,16 +1,20 @@
-## Hi there 👋
+<div align="center">
+ <table>
+   <tr>
+     <td rowspan=2> <img src="https://github.com/Umbre11as/Umbre11as/blob/main/github-metrics.svg" /> </td>
+     <td> 
+	     <img src="https://github.com/Umbre11as/Umbre11as/blob/main/metrics.plugin.isocalendar.fullyear.svg" /> 
+     </td>
+   </tr>
+	<tr>
+		<td><img src="https://github.com/Umbre11as/Umbre11as/blob/main/metrics.plugin.languages.svg" /></td> 
+	</tr>
+ </table>
+</div>
 
-<!--
-**Umbre11as/Umbre11as** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<hr />
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 👨‍💻 About me
+- 15 Years Old
+- Big love sends to C++ and Java
+- Live in kernel mode
