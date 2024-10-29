@@ -21,9 +21,9 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="234.15720817999932" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="234.15720817999932" y="0" width="137.2652902220491" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="371.4224984020484" y="0" width="88.5775015979516" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="358.3179376320841" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="358.3179376320841" y="0" width="64.23466210657074" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="422.55259973865486" y="0" width="37.44740026134512" height="8" fill="#DA3434"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -35,8 +35,8 @@
                                 C++
                             </div>
                             <small>
-                                <div>134 kB</div>
-                                <div>50.9%</div>
+                                <div>482 kB</div>
+                                <div>77.9%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -47,8 +47,8 @@
                                 CMake
                             </div>
                             <small>
-                                <div>50.9 kB</div>
-                                <div>19.26%</div>
+                                <div>50.4 kB</div>
+                                <div>8.14%</div>
                             </small>
                         </div>
                     </section>
@@ -61,8 +61,8 @@
                                 C
                             </div>
                             <small>
-                                <div>78.9 kB</div>
-                                <div>29.84%</div>
+                                <div>86.5 kB</div>
+                                <div>13.96%</div>
                             </small>
                         </div>
                     </section>
