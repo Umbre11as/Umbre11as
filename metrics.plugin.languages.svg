@@ -21,10 +21,10 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="361.13821336508164" height="8" fill="#f34b7d"/>
-                    <rect mask="url(#languages-bar)" x="361.13821336508164" y="0" width="62.850975543946355" height="8" fill="#555555"/>
-                    <rect mask="url(#languages-bar)" x="423.98918890902803" y="0" width="35.62934360580067" height="8" fill="#DA3434"/>
-                    <rect mask="url(#languages-bar)" x="459.6185325148287" y="0" width="0.38146748517133566" height="8" fill="#A97BFF"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="252.34635185848717" height="8" fill="#f34b7d"/>
+                    <rect mask="url(#languages-bar)" x="252.34635185848717" y="0" width="163.40336055217153" height="8" fill="#DA3434"/>
+                    <rect mask="url(#languages-bar)" x="415.7497124106587" y="0" width="41.89073490863145" height="8" fill="#555555"/>
+                    <rect mask="url(#languages-bar)" x="457.6404473192901" y="0" width="2.359552680709827" height="8" fill="#A97BFF"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -36,24 +36,10 @@
                                 C++
                             </div>
                             <small>
-                                <div>515 kB</div>
-                                <div>78.51%</div>
+                                <div>58.1 kB</div>
+                                <div>54.86%</div>
                             </small>
                         </div>
-                        <div class="field language details">
-                            <div class="field">
-                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
-                                </svg>
-                                CMake
-                            </div>
-                            <small>
-                                <div>50.8 kB</div>
-                                <div>7.75%</div>
-                            </small>
-                        </div>
-                    </section>
-                    <section>
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -62,8 +48,22 @@
                                 C
                             </div>
                             <small>
-                                <div>89.6 kB</div>
-                                <div>13.66%</div>
+                                <div>9.66 kB</div>
+                                <div>9.11%</div>
+                            </small>
+                        </div>
+                    </section>
+                    <section>
+                        <div class="field language details">
+                            <div class="field">
+                                <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                    <path fill="#DA3434" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                </svg>
+                                CMake
+                            </div>
+                            <small>
+                                <div>37.6 kB</div>
+                                <div>35.52%</div>
                             </small>
                         </div>
                         <div class="field language details">
@@ -75,7 +75,7 @@
                             </div>
                             <small>
                                 <div>544 bytes</div>
-                                <div>0.08%</div>
+                                <div>0.51%</div>
                             </small>
                         </div>
                     </section>
