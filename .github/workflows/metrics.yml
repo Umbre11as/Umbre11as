@@ -44,6 +44,7 @@ jobs:
           base: ""
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
+          repositories_forks: yes
       - name: Most used
         uses: lowlighter/metrics@latest
         with:
