@@ -36,6 +36,7 @@ jobs:
           plugin_lines_history_limit: 3
           plugin_lines_repositories_limit: 30
           plugin_lines_sections: base, header, activity, community, repositories, metadata
+          repositories_skipped: MM
       - name: Full-year calendar
         uses: lowlighter/metrics@latest
         with:
@@ -45,6 +46,7 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year
           repositories_forks: yes
+          repositories_skipped: MM
       - name: Most used
         uses: lowlighter/metrics@latest
         with:
@@ -64,3 +66,4 @@ jobs:
           plugin_languages_sections: most-used
           plugin_languages_skipped: Umbre11as
           plugin_languages_threshold: 0%
+          repositories_skipped: MM
