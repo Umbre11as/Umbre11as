@@ -15,6 +15,6 @@
 <hr />
 
 #### 👨‍💻 About me
-- 15 Years Old
-- Big love sends to C and Java
+- 16 Years Old
+- Big love sends to C/C++ and Java
 - Live in kernel mode, any questions?
