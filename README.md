@@ -17,4 +17,3 @@
 #### 👨‍💻 About me
 - 16 Years Old
 - Big love sends to C/C++ and Java
-- Live in kernel mode, any questions?
